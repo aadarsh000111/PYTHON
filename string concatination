@@ -1,3 +1,4 @@
-a="Aadarsh "
-b="kumar"
-print(a+b)
+string1=(input("enter 1st character :"))
+string2=(input("enter 2nd character:"))
+result= string1+string2
+print("output : " ,result)
